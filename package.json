@@ -1,0 +1,36 @@
+{
+  "name"         : "n-step",
+  "version"      : "0.0.1",
+  "description"  : "Next Step",
+  "main"         : "index.js",
+  "scripts"      : {
+    "test"           : "make test"
+  },
+  "devDependencies": {
+    "connect"        : "*",
+    "pm"             : "*",
+    "argparse"       : "*",
+    "clone"          : "*",
+    "mocha"          : "*",
+    "expect.js"      : "*",
+    "coffee-script"  : "*",
+    "mysql"          : "*",
+    "options-stream" : "*",
+    "justlog"        : "*",
+    "underscore"     : "*",
+    "js-yaml"        : "*",
+    "mkdirp"         : "*",
+    "parevents"      : "*"
+  },
+  "repository"   : {
+    "type"           : "git",
+    "url"            : "git://github.com/PerterPon/Nstep.git"
+  },
+  "keywords"     : [
+    "nodejs", "coffeescript"
+  ],
+  "author"       : "PerterPon",
+  "license"          : "BSD",
+  "readmeFilename"   : "README.md",
+  "gitHead"          : "1769819ee6e5487d0af98412a19be155afd8d00f"
+}
